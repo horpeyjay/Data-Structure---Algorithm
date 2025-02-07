@@ -19,4 +19,6 @@ public with sharing class LongestRepeatingSubstring {
 
         return maxLenght;
     }
+
+    
 }
